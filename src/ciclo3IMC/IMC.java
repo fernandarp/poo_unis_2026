@@ -1,4 +1,4 @@
-package AtvCiclo3IMC;
+package ciclo3IMC;
 
 import javax.swing.*;
 

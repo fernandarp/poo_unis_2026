@@ -1,6 +1,6 @@
-package AtvCiclo3IMC;
+package ciclo3IMC;
 
-import javax.swing.JOptionPane;
+import javax.swing.*;
 
 public class Main {
     private static float convertStrToFloat(String text) {

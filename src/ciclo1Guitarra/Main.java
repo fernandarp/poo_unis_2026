@@ -1,4 +1,4 @@
-package ciclo1;
+package ciclo1Guitarra;
 
 public class Main {
     public static void main(String[] args) {
