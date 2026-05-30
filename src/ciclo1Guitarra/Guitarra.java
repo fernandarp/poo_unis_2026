@@ -1,9 +1,11 @@
+package ciclo1;
+
 public class Guitarra {
 
     private String numeroSerie, fabricante, modelo, tipo, madeira;
     private double preco;
 
-    //Criação do construtor da classe Guitarra
+    //Criação do construtor da classe ciclo1.Guitarra
     public Guitarra(
             String numeroSerie, String fabricante,
             String modelo,    	 String tipo,
@@ -54,7 +56,7 @@ public class Guitarra {
 
     //o método main() é o metodo principal da classe
     public static void main(String[] args) {
-        //instanciamos um objeto chamado "minhaGuitara" que será do tipo "Guitarra"
+        //instanciamos um objeto chamado "minhaGuitara" que será do tipo "ciclo1.Guitarra"
         //Os valores passados são usados pelo construtor da classe para criar
         //o objeto
         Guitarra minhaGuitarra = new Guitarra("01020304", "fender", "telecaster",
